@@ -1,0 +1,102 @@
+[
+    {
+        "dni": "27502418",
+        "Codigo": "MAT31016",
+        "nota": 15,
+        "Periodo": "1-2024"
+    },
+    {
+        "dni": "30550318",
+        "Codigo": "MAT31017",
+        "nota": 16,
+        "Periodo": "1-2024"
+    },
+    {
+        "dni": "30550318",
+        "Codigo": "MAT31016",
+        "nota": 15,
+        "Periodo": "1-2024"
+    },
+    {
+        "dni": "30213555",
+        "Codigo": "MAT31016",
+        "nota": 16,
+        "Periodo": "1-2024"
+    },
+    {
+        "dni": "30213555",
+        "Codigo": "MAT31017",
+        "nota": 18,
+        "Periodo": "1-2024"
+    },
+    {
+        "dni": "27502418",
+        "Codigo": "MAT31017",
+        "nota": 17,
+        "Periodo": "1-2024"
+    },
+    {
+        "dni": "27061404",
+        "Codigo": "MAT31017",
+        "nota": 16,
+        "Periodo": "1-2024"
+    },
+    {
+        "dni": "27061404",
+        "Codigo": "MAT31016",
+        "nota": 18,
+        "Periodo": "1-2024"
+    },
+    {
+        "dni": "28589939",
+        "Codigo": "MAT31016",
+        "nota": 18,
+        "Periodo": "1-2024"
+    },
+    {
+        "dni": "28380228",
+        "Codigo": "MAT31016",
+        "nota": 20,
+        "Periodo": "1-2024"
+    },
+    {
+        "dni": "30522115",
+        "Codigo": "MAT31017",
+        "nota": 19,
+        "Periodo": "1-2024"
+    },
+    {
+        "dni": "30522115",
+        "Codigo": "MAT31016",
+        "nota": 19,
+        "Periodo": "1-2024"
+    },
+    {
+        "dni": "17248513",
+        "Codigo": "MAT31017",
+        "nota": 18,
+        "Periodo": "1-2024"
+    },
+    {
+        "dni": "17248513",
+        "Codigo": "MAT31016",
+        "nota": 18,
+        "Periodo": "1-2024"
+    },
+    {
+        "dni": "28380228",
+        "Codigo": "MAT31017",
+        "nota": 16.0
+    },
+    {
+        "dni": "28589939",
+        "Codigo": "MAT31017",
+        "nota": 21.0
+    },
+    {
+        "dni": "17248513",
+        "Codigo": "MAT31017",
+        "nota": 18.0,
+        "Periodo": "1-2024"
+    }
+]
